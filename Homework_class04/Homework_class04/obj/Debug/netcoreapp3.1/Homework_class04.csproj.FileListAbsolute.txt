@@ -1,0 +1,11 @@
+C:\Users\Danica\source\repos\Homework_class04\Homework_class04\bin\Debug\netcoreapp3.1\Homework_class04.exe
+C:\Users\Danica\source\repos\Homework_class04\Homework_class04\bin\Debug\netcoreapp3.1\Homework_class04.deps.json
+C:\Users\Danica\source\repos\Homework_class04\Homework_class04\bin\Debug\netcoreapp3.1\Homework_class04.runtimeconfig.json
+C:\Users\Danica\source\repos\Homework_class04\Homework_class04\bin\Debug\netcoreapp3.1\Homework_class04.runtimeconfig.dev.json
+C:\Users\Danica\source\repos\Homework_class04\Homework_class04\bin\Debug\netcoreapp3.1\Homework_class04.dll
+C:\Users\Danica\source\repos\Homework_class04\Homework_class04\bin\Debug\netcoreapp3.1\Homework_class04.pdb
+C:\Users\Danica\source\repos\Homework_class04\Homework_class04\obj\Debug\netcoreapp3.1\Homework_class04.csprojAssemblyReference.cache
+C:\Users\Danica\source\repos\Homework_class04\Homework_class04\obj\Debug\netcoreapp3.1\Homework_class04.AssemblyInfoInputs.cache
+C:\Users\Danica\source\repos\Homework_class04\Homework_class04\obj\Debug\netcoreapp3.1\Homework_class04.AssemblyInfo.cs
+C:\Users\Danica\source\repos\Homework_class04\Homework_class04\obj\Debug\netcoreapp3.1\Homework_class04.dll
+C:\Users\Danica\source\repos\Homework_class04\Homework_class04\obj\Debug\netcoreapp3.1\Homework_class04.pdb
